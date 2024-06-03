@@ -17,11 +17,11 @@ const ServicesArea = () => {
         <h2>services</h2>
         <h1 className="text-2xl">Our Services Area</h1>
       </div>
-      {/* <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {services.map((service) => (
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {/* {services.map((service) => (
           <ServiceCard key={service._id} service={service}></ServiceCard>
-        ))}
-      </div> */}
+        ))} */}
+      </div>
     </div>
   );
 };
