@@ -15,7 +15,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="flex justify-between ">
+    <nav className="flex justify-between lg:mx-52">
       <h1>Logo</h1>
       <ul className="flex gap-3">
         <li>
